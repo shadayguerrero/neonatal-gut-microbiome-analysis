@@ -11,7 +11,7 @@ visualizaciones generadas a partir de los notebooks del repositorio.
 ## 📈 Distribución de diversidad
 
 ![Alpha
-Boxplot](https://raw.githubusercontent.com/shadayguerrero/neonatal-gut-microbiome-analysis/main/plots/alpha_diversity_boxplot.png)
+Boxplot](https://github.com/shadayguerrero/neonatal-gut-microbiome-analysis/blob/main/plots/alpha_observed_otus_por_Group.png)
 
 ## 📊 Comparación entre grupos
 
