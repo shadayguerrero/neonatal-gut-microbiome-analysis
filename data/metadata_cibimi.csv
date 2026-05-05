@@ -1,0 +1,87 @@
+MBI Sample ID,Your Sample ID,Baby number,Sampling Date,Weeks of gestation,Sample Type,Group,Sex,Weight,Size,Head Circunference,Abdominal Circunference,Necrotizing enterocolitis,Type of Birth,Clasification birth weight,Week
+S00SO-0001,C3.1,3,Week 1 (Birth),27.0,human feces,CONTROL,fem,800.0,34.0,24.0,18.0,No presence,Cesarean,Extremely low ,1
+S00SO-0002,C3.2,3,Week 2,,human feces,CONTROL,fem,805.0,34.0,23.0,18.0,No presence,Cesarean,Extremely low ,2
+S00SO-0003,C3.3,3,Week 3,,human feces,CONTROL,fem,870.0,34.0,24.0,20.0,No presence,Cesarean,Extremely low ,3
+S00SO-0004,C3.4,3,Week 4,,human feces,CONTROL,fem,910.0,34.0,24.0,20.0,No presence,Cesarean,Extremely low ,4
+S00SO-0005,C3.5,3,Week 5,,human feces,CONTROL,fem,,,,,No presence,Cesarean,Extremely low ,5
+S00SO-0006,C5.1,5,Week 1 (Birth),33.0,human feces,CONTROL,fem,1810.0,39.0,31.0,21.0,No presence,Cesarean,Low,1
+S00SO-0007,C5.2,5,Week 2,,human feces,CONTROL,fem,1085.0,36.0,26.0,21.0,No presence,Cesarean,Low,2
+S00SO-0008,C5.3,5,Week 3,,human feces,CONTROL,fem,1775.0,39.0,28.0,24.0,No presence,Cesarean,Low,3
+S00SO-0009,C5.4,5,Week 4,,human feces,CONTROL,fem,1835.0,39.0,31.0,24.0,No presence,Cesarean,Low,4
+S00SO-0010,C6.1,6,Week 1 (Birth),30.0,human feces,CONTROL,masc,1230.0,36.0,27.0,21.0,No presence,Cesarean,Very low,1
+S00SO-0011,C6.2,6,Week 2,,human feces,CONTROL,masc,1340.0,38.0,27.0,21.0,No presence,Cesarean,Very low,2
+S00SO-0012,C6.3,6,Week 3,,human feces,CONTROL,masc,1365.0,40.0,27.0,22.0,No presence,Cesarean,Very low,3
+S00SO-0013,C6.4,6,Week 4,,human feces,CONTROL,masc,1495.0,40.0,27.0,22.0,No presence,Cesarean,Very low,4
+S00SO-0014,C6.5,6,Week 5,,human feces,CONTROL,masc,,,,,No presence,Cesarean,Very low,5
+S00SO-0015,C21.1,21,Week 1 (Birth),34.0,human feces,CONTROL,fem,1750.0,38.0,29.0,25.0,No presence,Parturition,Low,1
+S00SO-0016,C21.2,21,Week 2,,human feces,CONTROL,fem,1585.0,44.0,28.0,23.0,No presence,Parturition,Low,2
+S00SO-0017,C21.3,21,Week 3,,human feces,CONTROL,fem,1700.0,40.0,28.0,21.0,No presence,Parturition,Low,3
+S00SO-0018,C21.4,21,Week 4,,human feces,CONTROL,fem,1405.0,40.0,28.0,23.0,No presence,Parturition,Low,4
+S00SO-0019,C22.1,22,Week 1 (Birth),26.0,human feces,CONTROL,masc,770.0,30.0,24.0,20.0,No presence,Parturition,Extremely low ,1
+S00SO-0020,C22.2,22,Week 2,,human feces,CONTROL,masc,740.0,28.0,23.0,19.0,No presence,Parturition,Extremely low ,2
+S00SO-0021,C22.3,22,Week 3,,human feces,CONTROL,masc,755.0,28.0,23.0,19.0,No presence,Parturition,Extremely low ,3
+S00SO-0022,C24.1,24,Week 1 (Birth),32.0,human feces,CONTROL,fem,790.0,33.0,23.0,17.0,No presence,Parturition,Extremely low ,1
+S00SO-0023,C24.2,24,Week 2,,human feces,CONTROL,fem,870.0,37.0,25.0,20.0,No presence,Parturition,Extremely low ,2
+S00SO-0024,C26.1,26,Week 1 (Birth),9.0,human feces,CONTROL,fem,790.0,33.0,23.0,17.0,No presence,Cesarean,Extremely low ,1
+S00SO-0025,C26.2,26,Week 2,,human feces,CONTROL,fem,1120.0,33.0,25.0,23.5,No presence,Cesarean,,2
+S00SO-0026,C27.1,27,Week 1 (Birth),32.0,human feces,CONTROL,masc,1510.0,42.0,29.0,24.0,No presence,Cesarean,Low,1
+S00SO-0027,C27.2,27,Week 2,,human feces,CONTROL,masc,1910.0,41.0,30.0,25.0,No presence,Cesarean,,2
+S00SO-0028,C31.1,31,Week 1 (Birth),30.0,human feces,CONTROL,masc,1280.0,37.0,27.5,22.0,IIB,Cesarean,Very low,1
+S00SO-0029,C31.2,31,Week 2,,human feces,CONTROL,masc,1140.0,37.0,26.0,24.0,IIB,Cesarean,,2
+S00SO-0030,C31.3,31,Week 3,,human feces,CONTROL,masc,1175.0,40.0,26.0,22.0,IIB,Cesarean,,3
+S00SO-0031,C32.1,32,Week 1 (Birth),28.0,human feces,CONTROL,masc,1150.0,38.0,25.0,19.0,No presence,Cesarean,Very low,1
+S00SO-0032,C32.2,32,Week 2,,human feces,CONTROL,masc,,,,,No presence,Cesarean,,2
+S00SO-0033,C32.3,32,Week 3,,human feces,CONTROL,masc,,,,,No presence,Cesarean,,3
+S00SO-0034,C32.4,32,Week 4,,human feces,CONTROL,masc,,,,,No presence,Cesarean,,4
+S00SO-0035,C35.1,35,Week 1 (Birth),28.0,human feces,CONTROL,fem,1020.0,31.0,25.0,20.0,No presence,Cesarean,Very low,1
+S00SO-0036,C35.2,35,Week 2,,human feces,CONTROL,fem,985.0,31.0,25.0,21.0,No presence,Cesarean,,2
+S00SO-0037,C35.3,35,Week 3,,human feces,CONTROL,fem,850.0,31.0,24.0,19.0,No presence,Cesarean,,3
+S00SO-0038,C35.4,35,Week 4,,human feces,CONTROL,fem,900.0,31.0,24.0,20.0,No presence,Cesarean,,4
+S00SO-0039,C35.5,35,Week 5,,human feces,CONTROL,fem,,,,,No presence,Cesarean,,5
+S00SO-0040,C36.1,36,Week 1 (Birth),30.0,human feces,CONTROL,masc,960.0,34.0,27.0,19.0,No presence,Cesarean,Extremely low ,1
+S00SO-0041,C36.2,36,Week 2,,human feces,CONTROL,masc,985.0,34.0,26.0,20.0,No presence,Cesarean,,2
+S00SO-0042,C39.1,39,Week 1 (Birth),28.0,human feces,CONTROL,fem,740.0,30.0,24.0,17.0,No presence,Cesarean,Extremely low ,1
+S00SO-0043,C39.2,39,Week 2,,human feces,CONTROL,fem,950.0,36.0,26.0,22.0,No presence,Cesarean,,2
+S00SO-0044,C39.3,39,Week 3,,human feces,CONTROL,fem,820.0,37.0,25.0,19.0,IIB,Cesarean,,3
+S00SO-0045,C40.1,40,Week 1 (Birth),28.0,human feces,CONTROL,fem,1115.0,33.0,24.0,23.0,IIB,Cesarean,Very low,1
+S00SO-0046,C40.2,40,Week 2,,human feces,CONTROL,fem,1020.0,33.0,24.5,23.0,IIB,Cesarean,,2
+S00SO-0047,P8.1,8,Week 1 (Birth),28.0,human feces,PROBIOTIC,fem,820.0,30.0,25.0,18.0,No presence,Cesarean,Extremely low ,1
+S00SO-0048,P8.2,8,Week 2,,human feces,PROBIOTIC,fem,760.0,34.0,25.0,18.0,No presence,Cesarean,,2
+S00SO-0049,P8.3,8,Week 3,,human feces,PROBIOTIC,fem,765.0,34.0,25.0,19.0,No presence,Cesarean,,3
+S00SO-0050,P8.4,8,Week 4,,human feces,PROBIOTIC,fem,955.0,34.0,26.5,22.0,No presence,Cesarean,,4
+S00SO-0051,P8.5,8,Week 5,,human feces,PROBIOTIC,fem,,,,,No presence,Cesarean,,5
+S00SO-0052,P13.1,13,Week 1 (Birth),28.0,human feces,PROBIOTIC,masc,1100.0,35.0,,,No presence,Cesarean,Very low,1
+S00SO-0053,P13.2,13,Week 2,,human feces,PROBIOTIC,masc,960.0,36.0,26.0,20.0,No presence,Cesarean,,2
+S00SO-0054,P13.3,13,Week 3,,human feces,PROBIOTIC,masc,,,,,No presence,Cesarean,,3
+S00SO-0055,P13.4,13,Week 4,,human feces,PROBIOTIC,masc,1685.0,,,,No presence,Cesarean,,4
+S00SO-0056,P17.1,17,Week 1 (Birth),27.0,human feces,PROBIOTIC,masc,1000.0,35.0,27.0,20.0,No presence,Cesarean,Very low,1
+S00SO-0057,P17.2,17,Week 2,,human feces,PROBIOTIC,masc,810.0,33.0,25.0,18.0,No presence,Cesarean,,2
+S00SO-0058,P17.3,17,Week 3,,human feces,PROBIOTIC,masc,1290.0,33.0,27.5,24.0,No presence,Cesarean,,3
+S00SO-0059,P17.4,14,Week 4,,human feces,PROBIOTIC,masc,1530.0,33.0,29.0,24.0,No presence,Cesarean,,4
+S00SO-0060,P17.5,15,Week 5,,human feces,PROBIOTIC,masc,,,,,No presence,Cesarean,,5
+S00SO-0061,P19.1,19,Week 1 (Birth),28.0,human feces,PROBIOTIC,masc,1060.0,35.0,24.0,23.0,No presence,Cesarean,Very low,1
+S00SO-0062,P19.2,19,Week 2,,human feces,PROBIOTIC,masc,895.0,35.0,25.0,18.0,No presence,Cesarean,,2
+S00SO-0063,P19.3,19,Week 3,,human feces,PROBIOTIC,masc,900.0,35.0,24.0,17.0,No presence,Cesarean,,3
+S00SO-0064,P20.1,20,Week 1 (Birth),30.0,human feces,PROBIOTIC,masc,1090.0,35.0,28.0,20.0,No presence,Cesarean,Very low,1
+S00SO-0065,P20.2,20,Week 2,,human feces,PROBIOTIC,masc,1095.0,39.0,27.0,22.0,No presence,Cesarean,,2
+S00SO-0066,P20.3,20,Week 3,,human feces,PROBIOTIC,masc,1205.0,40.0,27.0,25.0,No presence,Cesarean,,3
+S00SO-0067,P20.4,20,Week 4,,human feces,PROBIOTIC,masc,1210.0,40.0,27.0,23.0,No presence,Cesarean,,4
+S00SO-0068,P20.5,20,Week 5,,human feces,PROBIOTIC,masc,,,,,No presence,Cesarean,,5
+S00SO-0069,P29.1,29,Week 1 (Birth),32.0,human feces,PROBIOTIC,fem,1750.0,41.0,28.0,21.0,No presence,Cesarean,low,1
+S00SO-0070,P29.2,29,Week 2,,human feces,PROBIOTIC,fem,1465.0,41.0,28.0,21.0,No presence,Cesarean,,2
+S00SO-0071,P30.1,30,Week 1 (Birth),30.0,human feces,PROBIOTIC,fem,1230.0,36.0,27.0,22.0,No presence,Cesarean,Very low,1
+S00SO-0072,P30.3,30,Week 3,,human feces,PROBIOTIC,fem,1045.0,39.0,26.0,20.0,No presence,Cesarean,,3
+S00SO-0073,P33.1,33,Week 1 (Birth),34.0,human feces,PROBIOTIC,masc,1460.0,35.0,29.0,25.0,No presence,Cesarean,Very low,1
+S00SO-0074,P33.2,33,Week 2,,human feces,PROBIOTIC,masc,1285.0,35.0,28.0,27.0,No presence,Cesarean,,2
+S00SO-0075,P33.3,33,Week 3,,human feces,PROBIOTIC,masc,1305.0,35.0,28.0,27.0,No presence,Cesarean,,3
+S00SO-0076,P34.1,34,Week 1 (Birth),30.0,human feces,PROBIOTIC,fem,1000.0,36.0,25.5,22.0,No presence,Cesarean,Very low,1
+S00SO-0077,P34.2,34,Week 2,,human feces,PROBIOTIC,fem,875.0,36.0,25.0,21.0,No presence,Cesarean,,2
+S00SO-0078,P34.3,34,Week 3,,human feces,PROBIOTIC,fem,905.0,36.0,25.0,19.0,No presence,Cesarean,,3
+S00SO-0079,P37.1,37,Week 1 (Birth),31.0,human feces,PROBIOTIC,masc,1250.0,33.0,25.0,22.0,No presence,Parturition,Very low,1
+S00SO-0080,P37.2,37,Week 2,,human feces,PROBIOTIC,masc,895.0,36.0,24.0,21.0,No presence,Parturition,,2
+S00SO-0081,P37.3,37,Week 3,,human feces,PROBIOTIC,masc,1025.0,39.0,24.0,21.0,No presence,Parturition,,3
+S00SO-0082,P37.4,37,Week 4,,human feces,PROBIOTIC,masc,1245.0,40.0,25.0,21.0,No presence,Parturition,,4
+S00SO-0083,P38.1,38,Week 1 (Birth),30.0,human feces,PROBIOTIC,masc,1380.0,41.0,29.0,22.0,No presence,Cesarean,Very low,1
+S00SO-0084,P38.2,38,Week 2,,human feces,PROBIOTIC,masc,1280.0,41.0,29.0,22.0,No presence,Cesarean,,2
+S00SO-0085,P38.3,38,Week 3,,human feces,PROBIOTIC,masc,1350.0,41.0,29.0,22.0,No presence,Cesarean,,3
+S00SO-0086,P38.4,38,Week 4,,human feces,PROBIOTIC,masc,1480.0,43.5,27.0,23.5,No presence,Cesarean,,4
